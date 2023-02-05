@@ -2,6 +2,10 @@
 
 This uses a chat thread as a "food inventory management system". The primary goal is assisting with meal planning: generating recipes, making sure ingredients get used before they go bad, etc.
 
+# TESTED
+
+- ChatGPT (2023-01-30)
+
 # PROMPT DEFINITION
 
 > Hey ChatGPT, I'd like to use this thread as a food inventory management system. I'll send you updates about the content of my fridge and my pantry, including expiration dates, and then periodically ask for recipes that use the ingredients I already have and prioritize the ones that will expire the soonest.
@@ -44,10 +48,6 @@ This uses a chat thread as a "food inventory management system". The primary goa
 > 
 > Assume we have essentials like salt, pepper, olive oil, butter, etc.
 
-# TESTED
-
-- ChatGPT (2023-01-30)
-
 # EXAMPLE 1 - RESULT
 
 > Sure! I'd be happy to help you manage your food inventory.
@@ -66,3 +66,35 @@ This uses a chat thread as a "food inventory management system". The primary goa
 > 10. Buffalo Dip: Serve with veggies or crackers.
 >
 > These recipes will help you use up the ingredients that will expire soonest first, but feel free to get creative and come up with your own recipe ideas as well!
+
+# EXAMPLE 1.1 - PROMPT
+
+> Awesome! Thank you so much. I'd like to add the following items:
+>
+> - Various breakfast cereal
+> - Various crackers and chips
+> - Canned beans
+> - Olives
+> - Chickpeas
+> - Rice
+> - Coconut milk
+> - Tomato sauce
+> - Diced tomatoes
+> - Cashews
+> - Cashew milk
+> - Maple syrup
+
+# EXAMPLE 1.1 - RESULT
+
+> Sure thing! With the addition of these ingredients, here are some more recipe ideas for you:
+>
+> 1. Rice and Bean Bowl: Cook rice according to package instructions, mix with canned beans, diced tomatoes, olives, and a dressing of lime juice and chili powder.
+> 2. Chickpea Salad: Mix chickpeas with diced veggies, lemon juice, olive oil, salt, and pepper.
+> 3. Tomato Sauce Pasta: Cook pasta according to package instructions, top with tomato sauce and grated cheese.
+> 4. Cashew Milk Smoothie: Blend cashew milk, frozen fruit, and maple syrup until smooth.
+> 5. Tomato and Chickpea Soup: Simmer diced tomatoes, chickpeas, coconut milk, and spices of choice until heated through.
+> 6. Breakfast Bowl: Top cereal with sliced banana and cashews.
+> 7. Snack Board: Serve crackers, chips, olives, and dips.
+> 8. Maple Glazed Carrots: Toss sliced carrots with melted butter, maple syrup, salt, and pepper, then bake in a preheated oven until tender.
+>
+> I hope these recipes give you more ideas for using the ingredients in your pantry and fridge! Enjoy!
