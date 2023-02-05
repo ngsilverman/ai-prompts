@@ -98,3 +98,49 @@ This uses a chat thread as a "food inventory management system". The primary goa
 > 8. Maple Glazed Carrots: Toss sliced carrots with melted butter, maple syrup, salt, and pepper, then bake in a preheated oven until tender.
 >
 > I hope these recipes give you more ideas for using the ingredients in your pantry and fridge! Enjoy!
+
+# EXAMPLE 1.2 - PROMPT
+
+> Those are all great! Now, as an exercise, can you please list the food I currently have at home?
+
+# EXAMPLE 1.2 - RESULT
+
+> Sure! Based on the information you've provided, here is a list of the food you currently have at home:
+>
+> Irish soda bread
+> Lemon
+> Banana
+> Little tomatoes
+> Passion fruit
+> Pasta
+> Pizza dough
+> Various cheeses
+> Sandwich bread
+> Buffalo dip
+> Ranch sauce
+> Various dips and sauces
+> Oat milk
+> Half a cucumber
+> Kale
+> Vegetable tray
+> Raspberries
+> Apples
+> Carrots
+> Spinach
+> Fennel
+> Eggs
+> Applesauce
+> Pickled onions
+> Caramelized onions
+> Various breakfast cereal
+> Various crackers and chips
+> Canned beans
+> Olives
+> Chickpeas
+> Rice
+> Coconut milk
+> Tomato sauce
+> Diced tomatoes
+> Cashews
+> Cashew milk
+> Maple syrup
