@@ -107,40 +107,70 @@ This uses a chat thread as a "food inventory management system". The primary goa
 
 > Sure! Based on the information you've provided, here is a list of the food you currently have at home:
 >
-> Irish soda bread
-> Lemon
-> Banana
-> Little tomatoes
-> Passion fruit
-> Pasta
-> Pizza dough
-> Various cheeses
-> Sandwich bread
-> Buffalo dip
-> Ranch sauce
-> Various dips and sauces
-> Oat milk
-> Half a cucumber
-> Kale
-> Vegetable tray
-> Raspberries
-> Apples
-> Carrots
-> Spinach
-> Fennel
-> Eggs
-> Applesauce
-> Pickled onions
-> Caramelized onions
-> Various breakfast cereal
-> Various crackers and chips
-> Canned beans
-> Olives
-> Chickpeas
-> Rice
-> Coconut milk
-> Tomato sauce
-> Diced tomatoes
-> Cashews
-> Cashew milk
-> Maple syrup
+> - Irish soda bread
+> - Lemon
+> - Banana
+> - Little tomatoes
+> - Passion fruit
+> - Pasta
+> - Pizza dough
+> - Various cheeses
+> - Sandwich bread
+> - Buffalo dip
+> - Ranch sauce
+> - Various dips and sauces
+> - Oat milk
+> - Half a cucumber
+> - Kale
+> - Vegetable tray
+> - Raspberries
+> - Apples
+> - Carrots
+> - Spinach
+> - Fennel
+> - Eggs
+> - Applesauce
+> - Pickled onions
+> - Caramelized onions
+> - Various breakfast cereal
+> - Various crackers and chips
+> - Canned beans
+> - Olives
+> - Chickpeas
+> - Rice
+> - Coconut milk
+> - Tomato sauce
+> - Diced tomatoes
+> - Cashews
+> - Cashew milk
+> - Maple syrup
+
+# EXAMPLE 1.3 - PROMPT
+
+> Can I get a recipe for the Frittata you mentioned with ingredient amounts for two people?
+
+# EXAMPLE 1.3 - RESULT
+
+> Certainly! Here's a simple recipe for a frittata that serves 2 people:
+> 
+> Ingredients:
+>
+> - 4 large eggs
+> - 2 tablespoons milk
+> - Salt and pepper, to taste
+> - 1 tablespoon butter or olive oil
+> - 1 cup diced veggies of choice (e.g., mushrooms, bell peppers, onions, etc.)
+> - 1/2 cup grated cheese of choice (optional)
+> - Fresh herbs (e.g., basil, parsley, chives), finely chopped (optional)
+>
+> Instructions:
+>
+> 1. In a medium bowl, beat together the eggs, milk, salt, and pepper.
+> 2. In an oven-safe skillet, heat the butter or oil over medium heat.
+> 3. Add the diced veggies to the skillet and cook until tender, about 5 minutes.
+> 4. Pour the egg mixture into the skillet and cook until the edges start to set, about 2 minutes.
+> 5. Sprinkle the cheese and herbs over the top, if using.
+> 6. Transfer the skillet to the oven and bake until the frittata is set, about 10 minutes.
+> 7. Let cool for a few minutes before slicing and serving.
+> 
+> Enjoy your frittata with a side of toast or a green salad!
